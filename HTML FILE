@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <title>Mahika Agrawal</title>
+</head>
+
+<body>
+    <img src="images\download.png" width="200" height="200" alt="Mahika's profile picture">
+  <h1><a href="https://www.linkedin.com/in/mahika-agrawal-b938471b1/">Mahika Agrawal</a></h1>
+  <p><em>Pre-final year Student at <a href="https://vitbhopal.ac.in/"><strong>VIT, Bhopal.</strong></a></em></p>
+  <h4>Link to : <a href="C:\Users\Mahika Agrawal\Desktop\web dev\html personal site\hobbies.html">Contact Information</a></h4>
+
+  <p> I am an initiative-driven, quick learner with solid planning and management abilities, innovative thinking and clear communication skills, with the ability to persuade and negotiate, and a future-ready solutions-focused leader.
+  </p>
+  <hr size="3" noshade>
+  <h2>Education:</h2>
+  <ul>
+    <li><strong>Vellore Institute of Technology</strong>
+      <br>
+        B-Tech in Computer Science and Engineering
+        <br>
+        8.88/10</li>
+        <br>
+    <li><strong>Delhi Public School, Bhopal</strong>
+      <br>
+        PCM
+        <br>
+        95.8%</li>
+        <table>
+          
+        </table>
+
+  </ul>
+
+
+</body>
+
+</html>
